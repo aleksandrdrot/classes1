@@ -11,7 +11,7 @@ public class Author {
         return firstName;
     }
 
-    public String getLastName() {
+    public String getMiddleName() {
         return middleName;
     }
 }
